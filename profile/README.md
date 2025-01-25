@@ -1,12 +1,51 @@
-## Hi there 👋
+# METAFUSE
+## 사용자의 메타인지 능력을 향상시키기 위한 AI 기반 애플리케이션
 
-<!--
+---
 
-**Here are some ideas to get you started:**
+## 프로젝트 개요 🚀
+현대 사회는 개인의 자기 이해와 성장에 대한 복합적인 요구가 증가하고 있으나, <br/>
+은 성인들이 체계적으로 메타인지 능력을 개발할 기회를 갖지 못하고 있다. <br/>
+이로 인해 자기 인식 부족으로 잘못된 선택을 하거나 잠재력을 발휘하지 못하는 경우가 많다. <br/><br/>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+본 서비스는 사용자가 자신의 강점과 약점을 명확히 파악하고, <br/>
+체계적이고 효과적으로 미래를 설계할 수 있도록 돕는다. 개인의 성장과 잠재력 극대화를 목표로 맞춤형 메타인지 지원 서비스를 제공한다.
+
+---
+
+## 개발 정보 📅
+| 구분 | 상세 정보 |
+|------|-----------|
+| **개발 기간** | 2024년 6월 27일 ~ 2024년 11월 12일 |
+| **개발 인원** | 3명 |
+| **개발 방법론** | Agile Scrum 방식 |
+
+| 이름 | 역할 |
+|------|-----------|
+| **이서현** | 팀장, 백엔드, 프론트엔드, AI 게임 개발 |
+| **박찬윤** | 백엔드, 프론트엔드 |
+| **박은빈** | AI, 프론트엔드 |
+
+---
+
+## 주요 기능 🔍
+| 기능 | 상세 설명 |
+|------|-----------|
+| **사용자 맞춤형 메타인지 분석** | 개인 데이터 기반 심층 분석 및 인사이트 제공 |
+| **AI 기반 게임 및 테스트** | 학습과 재미를 결합한 인지 능력 훈련 모듈 |
+| **기록 관리 및 결과 분석** | 개인 성장 추적 및 맞춤형 피드백 시스템 |
+| **실시간 대화형 챗봇** | 즉각적인 학습 지원 및 코칭 AI |
+
+---
+
+## 기술 스택 💻
+![기술스택](https://github.com/user-attachments/assets/618d8bb8-a0a9-43ad-a683-d713ff6bbdcf)
+
+---
+
+## 기대 효과
+| 영역 | 기대 효과 |
+|------|-----------|
+| **메타인지 능력 향상** | 자기 인식 및 통제력 강화 |
+| **문제 해결 능력** | AI 기반 훈련을 통한 사고 프로세스 최적화 |
+| **활용 범위** | 메타인지 향상을 통한 다양한 분야로의 확장 가능성 제공 |
